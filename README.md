@@ -1,2 +1,2 @@
-# ArtificialNeuralNetworks
-My work on artificial neural networks
+Machine Learning
+My work on machine learning
